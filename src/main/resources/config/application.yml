@@ -1,0 +1,16 @@
+server:
+  port: 8888
+
+employee:
+  last-name: zhangsan
+  age: 35
+  boss: false
+  birthday: 1990/11/11
+  address:
+    homeAddr: Baoan
+    companyAddr: Futian
+  map: {k1: v1, k2: v2}
+  list:
+    - AA
+    - BB
+    - CC
